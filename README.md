@@ -8,7 +8,7 @@ Herramienta gratuita y de código abierto de [SonhoLab](https://sonholab.com). C
 
 ## Qué hace
 
-Cada PDF guarda datos invisibles además del contenido que se ve en pantalla: quién lo creó, cuándo, con qué título y con qué programa. Esos campos —título, autor, asunto y palabras clave— suelen quedar con nombres genéricos como Documento1 o con el usuario de Windows de quien lo generó, y aparecen tal cual cuando alguien abre el archivo o lo guarda en su computadora. Aquí subes el PDF, ves esos cuatro campos ya cargados con lo que trae el archivo, los editas como corresponda y descargas una copia con los metadatos actualizados. Todo ocurre en tu navegador: el PDF nunca sale de tu equipo.
+Cada PDF guarda datos invisibles además del contenido que se ve en pantalla: quién lo creó, cuándo, con qué título y con qué programa. Esos campos (título, autor, asunto y palabras clave) suelen quedar con nombres genéricos como Documento1 o con el usuario de Windows de quien lo generó, y aparecen tal cual cuando alguien abre el archivo o lo guarda en su computadora. Aquí subes el PDF, ves esos cuatro campos ya cargados con lo que trae el archivo, los editas como corresponda y descargas una copia con los metadatos actualizados. Todo ocurre en tu navegador: el PDF nunca sale de tu equipo.
 
 **Cuándo te sirve:**
 
